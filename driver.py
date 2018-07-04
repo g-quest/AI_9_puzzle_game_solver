@@ -2,6 +2,8 @@
 9 Puzzle Solver
 Author: Gregory V. Cuesta
 Date: July 3, 2017
+
+Written in Python 3
 '''
 from collections import deque
 import heapq
