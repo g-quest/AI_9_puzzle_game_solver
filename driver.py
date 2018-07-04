@@ -1,7 +1,7 @@
 '''
 9 Puzzle Solver
 Author: Gregory V. Cuesta
-Date: July 3, 2017
+Date: July 3, 2018
 
 Written in Python 3
 '''
