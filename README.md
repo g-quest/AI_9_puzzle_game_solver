@@ -8,7 +8,7 @@ This is a 9 Puzzle Game solver using the following uninformed and informed searc
 
 ### Description
 
-The 9 Puzzle Game is a sliding blocks game that takes place on a 3 X 3 grid with 8 tiles each numbered from 1 to 8. The task is to reposition the tiles in the proper order. For this purpose, the number 0 is used to represent a blank space.
+The 9 Puzzle Game is a sliding blocks game that takes place on a 3 X 3 grid with 8 tiles, each numbered from 1 to 8. The task is to reposition the tiles in the proper order. For this purpose, the number 0 is used to represent a blank space.
 
 So for example, the following puzzle:
 
